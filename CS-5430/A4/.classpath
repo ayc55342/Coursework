@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="libraries/commons-collections4-4.1.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/Users/reubenrappaport/Documents/Work/Classes/CS5430/CS5430A4/libraries/commons-collections4-4.1-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
